@@ -1,0 +1,14 @@
+C:\Users\T11641.Training13\proyecto\SolucionTechnoloshe\PresentacionWeb\bin\PresentacionWeb.dll.config
+C:\Users\T11641.Training13\proyecto\SolucionTechnoloshe\PresentacionWeb\bin\PresentacionWeb.dll
+C:\Users\T11641.Training13\proyecto\SolucionTechnoloshe\PresentacionWeb\bin\PresentacionWeb.pdb
+C:\Users\T11641.Training13\proyecto\SolucionTechnoloshe\PresentacionWeb\bin\Entidades.dll
+C:\Users\T11641.Training13\proyecto\SolucionTechnoloshe\PresentacionWeb\bin\Logica.dll
+C:\Users\T11641.Training13\proyecto\SolucionTechnoloshe\PresentacionWeb\bin\Datos.dll
+C:\Users\T11641.Training13\proyecto\SolucionTechnoloshe\PresentacionWeb\bin\Entidades.pdb
+C:\Users\T11641.Training13\proyecto\SolucionTechnoloshe\PresentacionWeb\bin\Logica.pdb
+C:\Users\T11641.Training13\proyecto\SolucionTechnoloshe\PresentacionWeb\bin\Datos.pdb
+C:\Users\T11641.Training13\proyecto\SolucionTechnoloshe\PresentacionWeb\obj\Debug\PresentacionWeb.csprojAssemblyReference.cache
+C:\Users\T11641.Training13\proyecto\SolucionTechnoloshe\PresentacionWeb\obj\Debug\PresentacionWeb.csproj.CoreCompileInputs.cache
+C:\Users\T11641.Training13\proyecto\SolucionTechnoloshe\PresentacionWeb\obj\Debug\PresentacionWeb.csproj.CopyComplete
+C:\Users\T11641.Training13\proyecto\SolucionTechnoloshe\PresentacionWeb\obj\Debug\PresentacionWeb.dll
+C:\Users\T11641.Training13\proyecto\SolucionTechnoloshe\PresentacionWeb\obj\Debug\PresentacionWeb.pdb

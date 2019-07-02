@@ -1,0 +1,11 @@
+C:\Users\T11641.Training13\proyecto\SolucionTechnoloshe\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\T11641.Training13\proyecto\SolucionTechnoloshe\Logica\bin\Debug\Logica.dll
+C:\Users\T11641.Training13\proyecto\SolucionTechnoloshe\Logica\bin\Debug\Logica.pdb
+C:\Users\T11641.Training13\proyecto\SolucionTechnoloshe\Logica\bin\Debug\Datos.dll
+C:\Users\T11641.Training13\proyecto\SolucionTechnoloshe\Logica\bin\Debug\Entidades.dll
+C:\Users\T11641.Training13\proyecto\SolucionTechnoloshe\Logica\bin\Debug\Datos.pdb
+C:\Users\T11641.Training13\proyecto\SolucionTechnoloshe\Logica\bin\Debug\Entidades.pdb
+C:\Users\T11641.Training13\proyecto\SolucionTechnoloshe\Logica\obj\Debug\Logica.csprojAssemblyReference.cache
+C:\Users\T11641.Training13\proyecto\SolucionTechnoloshe\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Users\T11641.Training13\proyecto\SolucionTechnoloshe\Logica\obj\Debug\Logica.dll
+C:\Users\T11641.Training13\proyecto\SolucionTechnoloshe\Logica\obj\Debug\Logica.pdb
